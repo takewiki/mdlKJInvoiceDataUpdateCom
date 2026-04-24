@@ -11,7 +11,8 @@ tabItem(tabName = "mdlKJInvoiceDataUpdateCom",
                                     #uiComponent seperated by comma (,)
                                     mdlKJInvoiceDataUpdateUI::bnsMappingUI(),
                                     mdlKJInvoiceDataUpdateUI::invoiceInfoUI(),
-                                    mdlKJInvoiceDataUpdateUI::differentiationUI()
+                                    mdlKJInvoiceDataUpdateUI::differentiationUI(),
+                                    mdlKJInvoiceDataUpdateUI::manualInvoiceUI()
                                      
                                     
                                     
